@@ -26,10 +26,11 @@ Let’s team up to create something epic! Reach me at:
    <img height="40" width="40" src="Images/gmailIcon.png" alt="Gmail" />
 </a>
 &ensp;
+&ensp;
 <a href="https://www.linkedin.com/in/elena-sauca-7a2708185/">
    <img height="40" width="40" src="Images/linkedInIcon.png" alt="LinkedIn" />
 </a>
 
-
+&ensp;
 Excited to connect, code, and conquer new challenges together! 🚀
 
