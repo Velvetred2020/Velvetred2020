@@ -14,11 +14,6 @@
 - **Other Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️
 - **Spoken Languages**: Romanian (Native) 🇷🇴, English (C2) 🇬🇧, Italian (C2) 🇮🇹, French (B1) 🇫🇷, German (A2) 🇩🇪, Dutch (A1) 🇳🇱
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Velvetred2020&show_icons=true&theme=radical&cache_seconds=1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Velvetred2020&layout=compact&theme=radical)  
-
-
 ## 📬 Get in Touch
 Let’s team up to create something epic! Reach me at:  
 
