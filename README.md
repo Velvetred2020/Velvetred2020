@@ -1,7 +1,7 @@
 # 🚀 Welcome to My GitHub Universe! 🌌
 
 ## 🌟 About Me
-- 📍 **Location**: Romania / Italy  
+
 - 🎓 **Background**: I’m a multi-passionate explorer with a Bachelor’s in *Nutrition and Dietetics*, another in *Applied Modern Languages*, and a growing love for all things code. After completing a Java Developer Bootcamp and a *Junior Java Developer Program*, I dove headfirst into the world of full-stack development—and I’m having a blast leveling up my skills every day! 💻🚀  
 - 🔥 **Passion**: I’m a *curious* adventurer at heart—diving into tech, languages, and everything in between to discover where I truly belong. Whether I’m coding or exploring new cultures, I’m always learning, growing, and chasing that spark. The world’s my playground, and I’m here to make my mark! 🌍  
 - 🎮 **Vibe Time**: When I’m not coding, I get creative with *art and music* or jump into immersive *gaming* sessions. Whether I’m sketching, composing, or battling it out in a fast-paced royale or a strategic team-based game, I’m all about expression and adrenaline. It’s my way of staying inspired and having fun! 🕹️
